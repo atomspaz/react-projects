@@ -1,3 +1,9 @@
+# My React JS Projects
+Hi all, below are my react projects I've made to showcase my skills from beginner to advance.
+Note:
+- Minimal Styling applied
+- Best Practice for ReactJS applied
+
 ## 1-Birthday Project
 
 Displaying a list from a data.js file.
