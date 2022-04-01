@@ -3,7 +3,7 @@ import React from "react";
 const Menu = () => {
   return (
     <section className="container">
-      <h2>4. Menu Project</h2>
+      <h2>5. Menu Project</h2>
     </section>
   );
 };
