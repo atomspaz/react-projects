@@ -5,7 +5,7 @@ const SingleQuestion = (props) => {
   const { title, info } = props;
   const [showInfo, setShowInfo] = useState(false);
   return (
-    <div>
+    <div className="accordian-container-outline">
       <p>{title}</p>
       {showInfo && <p>{info}</p>}
       <button onClick={() => setShowInfo(!showInfo)}>

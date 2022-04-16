@@ -179,3 +179,11 @@ small,
 .review-button-container {
   text-align: var(--textCenter);
 }
+
+/* ----------
+3-ACCORDIAN PROJECT
+==========*/
+
+.accordian-container-outline {
+  border: solid 1px black;
+}

@@ -16,10 +16,12 @@ Note:
 - useState & useEffect
 - conditions for displaying info (full paragraph or half paragraph)
 - filter function to remove tours.
-- axios libary for basic get request
+- axios libary for get request
 - fetch and display data from REST API
 
 ## 3-Reviews Project
 
-- dynamically display data from array - navigate through onClick(button)
-- random and display data from array - through onClick(button)
+- dynamically display data from array - navigate through buttons clicks
+- randomly display data from array - through button clicks
+
+## 4-Accordian Project
